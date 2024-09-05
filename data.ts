@@ -89,7 +89,7 @@ export const projects: IProject[] = [
     name: "North Care",
     description:
       "North is a web and mobile platform (Android) application that allows users to access medical care from the comfort of their home or any other location.",
-    image_path: "/Images/use_north.jpg",
+    image_path: "/Images/use_north.png",
     deployed_url: "https://usenorth.care",
     category: ["nextJs", "firebase", "react"],
     github_url: "",
@@ -100,7 +100,7 @@ export const projects: IProject[] = [
     name: "PneumaPage",
     description:
       "Pneumapage is a web application that allows users to search for healthcare providers in different fields and locations.",
-    image_path: "/Images/pneumapage.jpg",
+    image_path: "/Images/pneumapage.png",
     deployed_url: "https://pneumapage.com/",
     category: ["nextJs", "firebase", "react"],
     github_url: "",
@@ -111,8 +111,8 @@ export const projects: IProject[] = [
     name: "PneumaCare",
     description:
       "Pneuma care is crafted compelling telemedicine landing page, merging design & functionality for seamless user engagement",
-    image_path: "/Images/pneumacare.jpg",
-    deployed_url: "https://pneumapage.com/",
+    image_path: "/Images/pneumacare.png",
+    deployed_url: "https://www.pneuma.care/",
     category: ["nextJs", "firebase", "react"],
     github_url: "",
     key_techs: ["nextJs", "styled-components", "antd"],
